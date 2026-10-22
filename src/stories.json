@@ -1,0 +1,305 @@
+[
+  {
+    "id": "porch",
+    "roomIds": [
+      38
+    ],
+    "name": "Brock Street’s next chapter",
+    "chapter": "future",
+    "topic": "Looking ahead",
+    "lead": "Brock Street’s next chapter",
+    "body": "The street outside connects this home to downtown. Follow Brock towards Toronto Street and you reach the core identified by the Uxbridge BIA. The property listing describes it as a short walk.",
+    "reflection": "That familiar walk could acquire new landmarks. In April 2026, the Township announced a Lower Brock land-sale agreement with One Horizon Inc. Its plans include ambitions for housing, businesses and public space. The sale is still described as conditional—not a finished new downtown.",
+    "detail": "Plans checked 21 October 2026. Lower Brock is a separate downtown site. No completion date or exact walking time is claimed.",
+    "evidence": "Present-day context",
+    "sources": [
+      "bia",
+      "listing",
+      "announcement",
+      "redevelopment"
+    ],
+    "reviewedAt": "2026-10-21",
+    "roomAnchor": "Front porch and the street immediately outside"
+  },
+  {
+    "id": "foyer",
+    "roomIds": [
+      28
+    ],
+    "name": "A name over the threshold",
+    "chapter": "harrison",
+    "topic": "The house",
+    "lead": "A name over the threshold",
+    "body": "This is Harrison House. A Heritage Uxbridge plaque marks its place in the town’s history, and the Harrison name recalls James Harrison, a local harness maker.",
+    "reflection": "From outside, an address and a plaque can make a house seem settled: a name, a date, a neat explanation. Crossing the threshold complicates that picture. The rooms ahead belong to several chapters—private residence, maternity home, and family home once more.",
+    "detail": "The register’s 1873 construction and 1861 purchase dates conflict. The early ownership sequence remains unresolved.",
+    "evidence": "House history",
+    "sources": [
+      "register",
+      "listing"
+    ],
+    "reviewedAt": "2026-10-21",
+    "roomAnchor": "Entrance threshold, heritage plaque and the house name"
+  },
+  {
+    "id": "living",
+    "roomIds": [
+      30
+    ],
+    "name": "Nearly ten feet above you",
+    "chapter": "harrison",
+    "topic": "The house",
+    "lead": "Nearly ten feet above you",
+    "body": "Look up. The main-floor ceilings are described in the listing as approximately nine feet nine inches high. Together with the tall baseboards and hardwood floors, they give these principal rooms their particular scale.",
+    "reflection": "Furniture can make a room feel entirely contemporary. Its proportions tell a longer story. Notice the height of the wall compared with a doorway, then the broad strip of baseboard at floor level: two small ways the old house keeps its presence.",
+    "detail": "The listing describes these features; neither their installation dates nor the originality of individual boards and trim pieces is established.",
+    "evidence": "House history",
+    "sources": [
+      "listing",
+      "tour-layout"
+    ],
+    "reviewedAt": "2026-10-21",
+    "roomAnchor": "Main-floor room height, tall baseboards and flooring described in the listing"
+  },
+  {
+    "id": "family",
+    "roomIds": [
+      34
+    ],
+    "name": "A town that made music",
+    "chapter": "trade",
+    "topic": "Uxbridge history",
+    "lead": "A town that made music",
+    "body": "Uxbridge once made instruments as well as listening to them. The Township lists the Uxbridge Piano and Organ Company among its early industries. Today, the Music Hall and local performances keep music part of the town’s life.",
+    "reflection": "In a family room, music belongs to ordinary evenings rather than a history display. This is the quieter end of that local story: the audience at home. There is no documented Harrison family instrument here—only a town whose makers helped supply other people’s rooms.",
+    "detail": "Local industrial and cultural history, not evidence of an instrument or performance in this room.",
+    "evidence": "Present-day context",
+    "sources": [
+      "history",
+      "arts"
+    ],
+    "reviewedAt": "2026-10-21",
+    "roomAnchor": "Family room as a domestic listening and gathering space; no instrument is claimed visible"
+  },
+  {
+    "id": "hall",
+    "roomIds": [
+      55
+    ],
+    "name": "The walk to Main Street",
+    "chapter": "trade",
+    "topic": "The house",
+    "lead": "The walk to Main Street",
+    "body": "James Harrison’s work was outside this house. The heritage register places his harness-making business on Main Street in Uxbridge, where it says he worked for twenty years.",
+    "reflection": "This hall connects the private rooms to the way out. Follow that ordinary route in your mind: leave the room, pass through the entrance, and step towards town. A tradesman’s home and his place of business were two parts of one working life, connected by a walk.",
+    "detail": "The business’s Main Street location is documented; its exact premises and an on-site workshop are not established.",
+    "evidence": "Local history",
+    "sources": [
+      "register",
+      "tour-layout"
+    ],
+    "reviewedAt": "2026-10-21",
+    "roomAnchor": "Hall leading towards the entrance and a resident’s documented work outside the house"
+  },
+  {
+    "id": "dining",
+    "roomIds": [
+      36
+    ],
+    "name": "The room after the kitchen",
+    "chapter": "family",
+    "topic": "The house",
+    "lead": "The room after the kitchen",
+    "body": "The municipal description of Harrison House specifically mentions a back kitchen and a dining room. The tour still lets you move between kitchen and dining space: preparing food in one place, bringing it into another.",
+    "reflection": "That short journey is easy to miss while looking for grand history. But it is one of the house’s most persistent uses. Whatever else this address became, meals still needed a place to be prepared and a place to be eaten.",
+    "detail": "The historic description does not establish that today’s room boundaries or fittings are original.",
+    "evidence": "Local history",
+    "sources": [
+      "register",
+      "tour-layout"
+    ],
+    "reviewedAt": "2026-10-21",
+    "roomAnchor": "Dining room and its direct tour connection to the kitchen"
+  },
+  {
+    "id": "kitchen",
+    "roomIds": [
+      35
+    ],
+    "name": "The house had a back kitchen",
+    "chapter": "family",
+    "topic": "The house",
+    "lead": "The house had a back kitchen",
+    "body": "Among the names and dates in the heritage register is a practical detail: a back kitchen. At Harrison House, domestic work had a place in the building’s description, not just in the lives that passed through it.",
+    "reflection": "You are standing in the present-day kitchen. Compare its role with the dining room nearby. One makes the meal possible; the other makes an occasion of it. That relationship is a firmer thread through the house than any guessed Victorian menu.",
+    "detail": "The register documents a back kitchen, not the age of the current layout, appliances or cupboards.",
+    "evidence": "House history",
+    "sources": [
+      "register",
+      "tour-layout"
+    ],
+    "reviewedAt": "2026-10-21",
+    "roomAnchor": "Present kitchen, documented back kitchen, and adjacent dining space"
+  },
+  {
+    "id": "deck",
+    "roomIds": [
+      29
+    ],
+    "name": "A long garden behind a town house",
+    "chapter": "present",
+    "topic": "Life today",
+    "lead": "A long garden behind a town house",
+    "body": "From the street, you meet the front of the house. From the deck, you discover the depth behind it. The listing describes a lot roughly sixty-six feet wide and one hundred and sixty-four feet deep, with a substantial backyard.",
+    "reflection": "That is a different kind of closeness: downtown in one direction, garden space in the other. Beyond the property, Uxbridge’s trail network offers a longer way outdoors. Here, the deck is the small threshold between the rooms and the garden.",
+    "detail": "Lot dimensions are approximate listing figures. No trail access from this property or historical garden layout is claimed.",
+    "evidence": "Present-day context",
+    "sources": [
+      "listing",
+      "trails"
+    ],
+    "reviewedAt": "2026-10-21",
+    "roomAnchor": "Deck and the long rear garden described in the property listing"
+  },
+  {
+    "id": "den",
+    "roomIds": [
+      48
+    ],
+    "name": "At the top of the stairs",
+    "chapter": "family",
+    "topic": "The house",
+    "lead": "At the top of the stairs",
+    "body": "This is the landing: the upstairs crossroads. The tour’s stair connection arrives here, and the upper floor contains three bedrooms, two bathrooms and the laundry.",
+    "reflection": "Downstairs, the house spreads into its larger shared rooms. Up here, doors lead towards sleep, washing and the beginning or end of a day. Pause before choosing one. The landing makes the whole upper floor work without being anyone’s bedroom.",
+    "detail": "Landing is the owner’s correction to the tour’s Den label. This describes the present layout, not a reconstructed maternity-home floor plan.",
+    "evidence": "Local history",
+    "sources": [
+      "tour-layout",
+      "listing",
+      "owner-notes"
+    ],
+    "reviewedAt": "2026-10-21",
+    "roomAnchor": "Owner-confirmed landing and verified upstairs stair gate"
+  },
+  {
+    "id": "bath",
+    "roomIds": [
+      51
+    ],
+    "name": "The bathroom off the landing",
+    "chapter": "present",
+    "topic": "Domestic history",
+    "lead": "The bathroom off the landing",
+    "body": "This bathroom is reached from the landing rather than through the primary bedroom. Its position matters: it belongs to the shared circulation of the upper floor.",
+    "reflection": "A useful comparison comes from Parks Canada’s Green Gables interpretation in Prince Edward Island. It explains that chamber pots offered an alternative to a nighttime trip outside before indoor plumbing. Here, a separate bathroom is an ordinary stop a few steps from the bedrooms. That everyday convenience is a historical change worth noticing.",
+    "detail": "Green Gables is a comparison from another property. Harrison House’s earlier toilet arrangements and plumbing installation dates are unknown.",
+    "evidence": "Present-day context",
+    "sources": [
+      "tour-layout",
+      "green-gables"
+    ],
+    "reviewedAt": "2026-10-21",
+    "roomAnchor": "Shared upstairs bathroom reached from the landing"
+  },
+  {
+    "id": "bedroom-east",
+    "roomIds": [
+      42
+    ],
+    "name": "A house in a book title",
+    "chapter": "harrison",
+    "topic": "Uxbridge history",
+    "lead": "A house in a book title",
+    "body": "Anne’s House of Dreams was one of the novels Lucy Maud Montgomery wrote during her years at the Leaskdale Manse, elsewhere in this township. She lived there from 1911 to 1926; the manse’s plaque credits eleven novels to that period.",
+    "reflection": "The title feels at home among bedrooms: a house considered from the inside, as somewhere to live rather than somewhere to admire. This room has its own life. The literary connection is to another local home, where domestic surroundings and a writer’s work shared an address.",
+    "detail": "Montgomery’s home was the Leaskdale Manse. No visit to Harrison House or authorship in this bedroom is claimed.",
+    "evidence": "Local history",
+    "sources": [
+      "manse"
+    ],
+    "reviewedAt": "2026-10-21",
+    "roomAnchor": "Bedroom 2; the domestic subject of a novel written at another home in the township"
+  },
+  {
+    "id": "bedroom-west",
+    "roomIds": [
+      41
+    ],
+    "name": "The crib and Cedarlea",
+    "chapter": "cedarlea",
+    "topic": "The house",
+    "lead": "The crib and Cedarlea",
+    "body": "There is a crib in this room today. It brings an earlier purpose of this address sharply into focus: in 1949, Alma Soper opened Cedarlea Maternity Home here. The township records seven years of operation.",
+    "reflection": "The crib belongs to the present-day room, but the connection is immediate. This house has held both the private life of a family and a place where other families began. One small piece of furniture lets those two chapters sit together without pretending the room has been restored to the past.",
+    "detail": "The owner identifies Bedroom 1 as the crib room. The crib’s provenance and this room’s specific maternity-home use are not established.",
+    "evidence": "House history",
+    "sources": [
+      "register",
+      "owner-notes"
+    ],
+    "reviewedAt": "2026-10-21",
+    "roomAnchor": "Owner-confirmed crib in Bedroom 1"
+  },
+  {
+    "id": "primary",
+    "roomIds": [
+      39
+    ],
+    "name": "Behind the primary bedroom door",
+    "chapter": "family",
+    "topic": "The house",
+    "lead": "Behind the primary bedroom door",
+    "body": "The current primary bedroom has something the other bedrooms do not: its own ensuite. The listing also describes a walk-in closet. Sleeping, storing clothes and bathing form a small private suite within the house.",
+    "reflection": "That arrangement helps explain how an old residence stays useful. The house need not function exactly as it once did to remain recognisable. Follow the route into the ensuite, then back towards the landing: privacy is being shaped by the rooms and the doors between them.",
+    "detail": "This is the present arrangement. The dates and earlier room uses behind the suite are unknown.",
+    "evidence": "Present-day context",
+    "sources": [
+      "listing",
+      "tour-layout"
+    ],
+    "reviewedAt": "2026-10-21",
+    "roomAnchor": "Primary bedroom’s documented private ensuite and walk-in closet"
+  },
+  {
+    "id": "laundry",
+    "roomIds": [
+      43
+    ],
+    "name": "No baskets down the stairs",
+    "chapter": "family",
+    "topic": "Domestic history",
+    "lead": "No baskets down the stairs",
+    "body": "The laundry is upstairs, on the same floor as the bedrooms. It is a small convenience with a very physical consequence: the route between beds, clothes and washing stays on one level.",
+    "reflection": "For contrast, Parks Canada describes clothes-cleaning and ironing among the jobs done in the kitchen at Bethune Memorial House, an Ontario home interpreted as it was in 1890. Here, washing has its own room near the things being washed. The work remains; its place in the house has changed.",
+    "detail": "Bethune Memorial House is a separate historical comparison. Harrison House’s earlier laundry methods and laundry-room installation date are unknown.",
+    "evidence": "Plans · reviewed 21 Oct 2026",
+    "sources": [
+      "listing",
+      "tour-layout",
+      "bethune-house"
+    ],
+    "reviewedAt": "2026-10-21",
+    "roomAnchor": "Upper-floor laundry alongside the bedrooms"
+  },
+  {
+    "id": "ensuite",
+    "roomIds": [
+      44
+    ],
+    "name": "A bath that stays put",
+    "chapter": "family",
+    "topic": "Domestic history",
+    "lead": "A bath that stays put",
+    "body": "The primary ensuite has a separate shower and bathtub, according to the property listing. A room built around bathing is so familiar that the effort it removes can disappear from view.",
+    "reflection": "At Bethune Memorial House, Parks Canada describes a different arrangement: a portable metal tub in the kitchen, filled with water heated on the stove. That was another Ontario household, not a record of this one. Standing in an ensuite, the contrast is concrete: a bath that stays in place, in a room of its own.",
+    "detail": "The Bethune comparison does not establish how Harrison House residents bathed, or when this ensuite was installed.",
+    "evidence": "Plans · reviewed 21 Oct 2026",
+    "sources": [
+      "listing",
+      "bethune-house"
+    ],
+    "reviewedAt": "2026-10-21",
+    "roomAnchor": "Documented separate bathtub and shower in the private ensuite"
+  }
+]

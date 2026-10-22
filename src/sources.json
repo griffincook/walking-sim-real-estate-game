@@ -1,0 +1,93 @@
+[
+  {
+    "id": "register",
+    "title": "Township of Uxbridge · Heritage Register",
+    "url": "https://www.uxbridge.ca/explore-and-play/heritage-and-culture/heritage-register",
+    "note": "55 Brock Street East is in the non-designated cultural heritage section. Early construction and purchase dates conflict. Used for Harrison, trade, Cedarlea and the back-kitchen description.",
+    "reviewedAt": "2026-10-21"
+  },
+  {
+    "id": "listing",
+    "title": "55 Brock Street E · Owner-supplied property listing",
+    "url": "https://www.realtor.ca/real-estate/30291114/55-brock-street-e-uxbridge",
+    "note": "Owner-supplied current listing: contemporary residence, heritage plaque, approximate ceiling height, finishes, lot depth, upstairs laundry and primary suite. Used as property marketing evidence, not an independent archive or measured survey.",
+    "reviewedAt": "2026-10-21"
+  },
+  {
+    "id": "bia",
+    "title": "Uxbridge BIA · Visiting Downtown Uxbridge",
+    "url": "https://bia.uxbridge.ca/discover-and-explore/visiting-downtown-uxbridge",
+    "note": "Locates the downtown core at Toronto Street and Brock Street. Used for neighbourhood context, not a measured route.",
+    "reviewedAt": "2026-10-21"
+  },
+  {
+    "id": "arts",
+    "title": "Discover Uxbridge · Arts & Culture",
+    "url": "https://discoveruxbridge.ca/arts-culture/",
+    "note": "Township-supported official tourism source. Music Hall, book culture and community arts; no event schedule is promised.",
+    "reviewedAt": "2026-10-21"
+  },
+  {
+    "id": "history",
+    "title": "Township of Uxbridge · History",
+    "url": "https://www.uxbridge.ca/explore-and-play/heritage-and-culture/history",
+    "note": "Township context, Indigenous history preceding settler arrival, and the library’s 1887 opening. No association between a resident and the library is asserted.",
+    "reviewedAt": "2026-10-21"
+  },
+  {
+    "id": "trails",
+    "title": "Discover Uxbridge · Trails",
+    "url": "https://discoveruxbridge.ca/trail/",
+    "note": "Official tourism trail information. Trail access, conditions and permits can change; use current trail information before visiting.",
+    "reviewedAt": "2026-10-21"
+  },
+  {
+    "id": "manse",
+    "title": "L. M. Montgomery Society of Ontario · The Manse",
+    "url": "https://lucymaudmontgomery.ca/?page_id=339",
+    "note": "Historic-house operator and plaque account. Montgomery’s Leaskdale residence, 1911–1926. Not a claim that she visited Harrison House.",
+    "reviewedAt": "2026-10-21"
+  },
+  {
+    "id": "redevelopment",
+    "title": "Township of Uxbridge · Downtown Revitalization Project",
+    "url": "https://www.uxbridge.ca/doing-business/downtown-revitalization-project",
+    "note": "2022 strategy and implementation FAQ. As reviewed, the Lower Brock sale is described as conditional and in due diligence. Plans and renderings are not completed projects.",
+    "reviewedAt": "2026-10-21"
+  },
+  {
+    "id": "announcement",
+    "title": "Township of Uxbridge · Lower Brock announcement, 29 April 2026",
+    "url": "https://www.uxbridge.ca/town-hall/news-and-notices/post/township-of-uxbridge-advances-downtown-revitalization",
+    "note": "Announces the land-sale agreement with One Horizon Inc. Does not establish a completed redevelopment or guaranteed opening date.",
+    "reviewedAt": "2026-10-21"
+  },
+  {
+    "id": "tour-layout",
+    "title": "iGUIDE · Present-day house layout",
+    "url": "https://youriguide.com/lunnf_55_brock_st_e_uxbridge_on/",
+    "note": "Public room identities, neighbouring panoramic positions and stair-gate connections. Furnishings were not independently inspected; room features use owner notes or the listing.",
+    "reviewedAt": "2026-10-21"
+  },
+  {
+    "id": "owner-notes",
+    "title": "Owner’s room corrections · 21 October 2026",
+    "url": null,
+    "note": "The user identifies the upstairs Den as Landing, and Bedroom 1 as the room with the crib. These are contemporary observations, not archival evidence of maternity-home room use.",
+    "reviewedAt": "2026-10-21"
+  },
+  {
+    "id": "bethune-house",
+    "title": "Parks Canada · Bethune Memorial House self-guided tour",
+    "url": "https://www.parcs.canada.ca/lhn-nhs/on/bethune/decouvrir-discover/tour",
+    "note": "Kitchen section: cleaning and ironing, and a metal bath with stove-heated water. Explicit comparison with another Ontario property, not evidence for Harrison House.",
+    "reviewedAt": "2026-10-21"
+  },
+  {
+    "id": "green-gables",
+    "title": "Parks Canada · Green Gables House",
+    "url": "https://www.parks.canada.ca/lhn-nhs/pe/greengables/activ/maison-house",
+    "note": "Chamber-pot interpretation explains nighttime alternatives before indoor plumbing. A comparative domestic-history source, not evidence about Harrison House fixtures.",
+    "reviewedAt": "2026-10-21"
+  }
+]
